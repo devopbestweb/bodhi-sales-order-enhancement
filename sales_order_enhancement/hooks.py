@@ -238,5 +238,6 @@ app_license = "mit"
 # }
 
 fixtures = [
-    "Custom Field"
+    "Custom Field",
+    "Print Format"
 ]
