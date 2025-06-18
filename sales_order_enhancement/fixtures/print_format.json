@@ -834,7 +834,7 @@
  {
   "absolute_value": 0,
   "align_labels_right": 0,
-  "css": ".table-container {\n    padding-top: 190px;\n}\n\ntable {\n    width: 100%; /* Or any specific width, essential for margin: auto to work */\n    margin-left: auto;\n    margin-right: auto;\n    /* You might still want text-align: center for content inside cells */\n    text-align: center;\n}\n\nth {\n    width: 220px;\n    min-width: 220px;\n}\n\ntr td:first-child h1 {\n    padding-right: 70px;\n}\n\ntr td:nth-child(2n) h1 {\n    padding-right: 5px;\n}\n\ntr td:nth-child(4n) h1 {\n    padding-left: 90px;\n}\n\n.empty-cell-placeholder {\n    width: 100px; /* Explicit width for the empty cell */\n    height: 50px; /* Explicit height for the empty cell */\n    /* You can add a border or background here for debugging if needed */\n  }",
+  "css": ".table-container {\n    padding-top: 190px;\n}\n\ntable {\n    width: 100%; /* Or any specific width, essential for margin: auto to work */\n    margin-left: auto;\n    margin-right: auto;\n    /* You might still want text-align: center for content inside cells */\n    text-align: center;\n}\n\nth {\n    width: 220px;\n    min-width: 220px;\n}\n\ntr td:first-child h1 {\n    padding-right: 80px;\n}\n\ntr td:nth-child(2n) h1 {\n    padding-right: 30px;\n}\n\ntr td:nth-child(3n) h1 {\n    padding-left: 20px;\n}\n\ntr td:nth-child(4n) h1 {\n    padding-left: 100px;\n}\n\n.empty-cell-placeholder {\n    width: 100px; /* Explicit width for the empty cell */\n    height: 50px; /* Explicit height for the empty cell */\n    /* You can add a border or background here for debugging if needed */\n  }",
   "custom_format": 1,
   "default_print_language": "en",
   "disabled": 0,
@@ -850,7 +850,7 @@
   "margin_left": 15.0,
   "margin_right": 15.0,
   "margin_top": 15.0,
-  "modified": "2025-06-18 16:31:46.348763",
+  "modified": "2025-06-18 16:50:20.785408",
   "module": "Selling",
   "name": "长生禄位",
   "page_number": "Hide",
