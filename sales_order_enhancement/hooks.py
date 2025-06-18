@@ -239,5 +239,6 @@ app_license = "mit"
 
 fixtures = [
     "Custom Field",
-    "Print Format"
+    "Print Format",
+    "Sales Taxes and Charges Template"
 ]
